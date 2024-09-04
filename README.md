@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MTalhakurama    
-- 👀 I’m interested in web development  
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on github with my freind
 - 📫 How to reach me ...
 
