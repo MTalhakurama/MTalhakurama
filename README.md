@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MTalhakurama    
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Genrative Ai
 - 💞️ I’m looking to collaborate on github with my freind
 - 📫 How to reach me ...
 
