@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MTalhakurama    
+- 👋 Hi, I’m @MTalha   
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Genrative Ai
 - 💞️ I’m looking to collaborate on github with my freind...
